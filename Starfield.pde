@@ -11,7 +11,7 @@ void setup()
 }
 void draw()
 {
-  background(189);
+  background(100,164,196);
   for(int i=0; i<bob.length; i++)
   {
     bob[i].show();
