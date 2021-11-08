@@ -1,4 +1,4 @@
-Particle[]bob=new Particle[100];
+Particle[]bob=new Particle[120];
 OddballParticle bobby=new OddballParticle();
 void setup()
 {
